@@ -1,0 +1,10 @@
+.summary {
+    background-color: #f8f9fa;
+    width: 100%;
+}
+
+.summary h2 {
+    padding: 3rem;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: bolder;
+}

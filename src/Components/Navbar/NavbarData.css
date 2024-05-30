@@ -1,0 +1,8 @@
+.navbar a {
+    margin-right: 2rem;
+    color: black;
+}
+
+.navbar a:hover{
+    color: red;
+}

@@ -1,0 +1,25 @@
+.hover-zoom {
+    transition: transform 0.36s !important;
+    overflow: hidden !important;
+    cursor: pointer;
+  }
+  
+  .hover-zoom:hover {
+    transform: scale(1.2) !important;
+    filter: brightness(130%) !important;
+    overflow: hidden !important;
+  }
+  
+  .product-link {
+    display: block;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card-main {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    overflow: hidden;
+  }
